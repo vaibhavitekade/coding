@@ -1,0 +1,13 @@
+name= 'Vaibhavi'
+print(name[0])
+print(name[1])
+print(name[2])
+print(name[-1])
+print(name[-1:-4])
+print(name[1:5])
+print(name[1:7:2])
+print(name[1:])
+print(name[:5])
+print(name[:])
+print(name*2)
+print(len(name))
